@@ -1,0 +1,32 @@
+.travel_mainDiv
+{
+    border: 1px solid rgb(205, 164, 224);
+}
+
+.travel_mainDiv img
+{
+    width: 100%;
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+    margin: 20px;
+}
+
+.filme.head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.filme.head i
+{
+    float: right;
+}
+
+.conquistas-text span
+{
+    color: rgb(150, 196, 248);
+}
